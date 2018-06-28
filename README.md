@@ -1,2 +1,2 @@
-# dc-react-dashboard
+# react-realtime-dashboard
 Dashboard ReactJS
