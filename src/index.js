@@ -6,10 +6,6 @@ class Dashboard extends Component {
     super(props);
   }
 
-  componentDidMount() {
-
-  }
-
   render() {
 
     const gridStyle = {
@@ -42,7 +38,7 @@ class Widget extends Component {
 
     const styleTile = {
       textAlign: "center"
-    }
+    };
 
     const styles = {
       widget: {

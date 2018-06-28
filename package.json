@@ -1,6 +1,6 @@
 {
   "name": "react-realtime-dashboard",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Realtime Dashboard made with reactJS",
   "main": "build/index.js",
   "dependencies": {
@@ -23,6 +23,7 @@
     "babel-loader": "^7.0.0",
     "babel-plugin-transform-object-rest-spread": "^6.23.0",
     "babel-plugin-transform-react-jsx": "^6.24.1",
-    "babel-preset-env": "^1.7.0"
+    "babel-preset-env": "^1.7.0",
+    "webpack-cli": "^3.0.8"
   }
 }
